@@ -1,0 +1,29 @@
+[ {
+  "identifiant" : "4535ba51-3c39-4de2-9ce5-98eb9b43e54e",
+  "nom" : "dkajbn",
+  "prenom" : "aljdcn",
+  "email" : "adlkn",
+  "phone" : "aoldknc",
+  "incidents" : null
+}, {
+  "identifiant" : "2b3959b5-1c76-40da-9ca6-07b04b0a0894",
+  "nom" : "ALi",
+  "prenom" : "adnani",
+  "email" : "aliadnani056@gmail.com",
+  "phone" : "0625261279",
+  "incidents" : null
+}, {
+  "identifiant" : "7e15ad0a-75bd-472d-96e5-a8d2e3349c4a",
+  "nom" : "younes",
+  "prenom" : "jdsj",
+  "email" : "kdk",
+  "phone" : "dkld",
+  "incidents" : null
+}, {
+  "identifiant" : "a6db3370-ba0f-4c84-b2e6-1eb15f4af02f",
+  "nom" : "John",
+  "prenom" : "Doe",
+  "email" : "john.doe@example.com",
+  "phone" : "1234567890",
+  "incidents" : null
+} ]
